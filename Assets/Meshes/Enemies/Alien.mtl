@@ -1,0 +1,10 @@
+# Exported from Nomad Sculpt
+
+newmtl Cylinder_20
+ map_Kd Cylinder_20_color_2.png
+ map_roughness Cylinder_20_roughness_2.png
+ map_metallic Cylinder_20_metalness_2.png
+ d 0.597000
+ Kd 1.000000 1.000000 1.000000
+ Pr 0.250000
+ Pm 0.000000

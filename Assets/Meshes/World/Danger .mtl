@@ -1,0 +1,9 @@
+# Exported from Nomad Sculpt
+
+newmtl Box
+ map_Kd Box_color.png
+ map_roughness Box_roughness.png
+ map_metallic Box_metalness.png
+ Kd 1.000000 1.000000 1.000000
+ Pr 0.250000
+ Pm 0.000000
